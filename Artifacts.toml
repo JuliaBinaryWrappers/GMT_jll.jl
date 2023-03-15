@@ -1,0 +1,50 @@
+[[GMT]]
+arch = "aarch64"
+git-tree-sha1 = "57273092253ad3a7bf9733122480db4d6dc9c4b5"
+os = "macos"
+
+    [[GMT.download]]
+    sha256 = "4f05c60fee68147e1a4c75b68f705c92079ed25c81c4db2c2edd4e0630315e6d"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.4.0+0/GMT.v6.4.0.aarch64-apple-darwin.tar.gz"
+[[GMT]]
+arch = "aarch64"
+git-tree-sha1 = "4f6689245c51d094a3f61a2367d2d89ab8476b22"
+libc = "glibc"
+os = "linux"
+
+    [[GMT.download]]
+    sha256 = "48950dd74cb9e4130819f71f0db7cd0e640a67c054dc7184004927019cd4289e"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.4.0+0/GMT.v6.4.0.aarch64-linux-gnu.tar.gz"
+[[GMT]]
+arch = "i686"
+git-tree-sha1 = "3adce2e0875d9044e987181bde28d9748732ffb3"
+os = "windows"
+
+    [[GMT.download]]
+    sha256 = "0dd515f4976b414cfd2da4602b5b08097859615874f5f43a5014e100e4bcb0db"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.4.0+0/GMT.v6.4.0.i686-w64-mingw32.tar.gz"
+[[GMT]]
+arch = "x86_64"
+git-tree-sha1 = "a2411ba95e4c38229fd9f31d4fa5e2dba048b57e"
+os = "macos"
+
+    [[GMT.download]]
+    sha256 = "4e5c88f594219f2a3c4fc60d56712a54bd109b92f6e9e9b22be5b172c53ef335"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.4.0+0/GMT.v6.4.0.x86_64-apple-darwin.tar.gz"
+[[GMT]]
+arch = "x86_64"
+git-tree-sha1 = "d5ff3a5124768360b51c104ae6c1db4f05540533"
+libc = "glibc"
+os = "linux"
+
+    [[GMT.download]]
+    sha256 = "076fdd5f595fdc451d6cd1ae33b5a6f6c59b1adb583c5de6177e34c396c0a893"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.4.0+0/GMT.v6.4.0.x86_64-linux-gnu.tar.gz"
+[[GMT]]
+arch = "x86_64"
+git-tree-sha1 = "526af25258bedf2ffc4db1e5316760c5271037ea"
+os = "windows"
+
+    [[GMT.download]]
+    sha256 = "4c85cd0fa9bb2657399d9ae72611e19f9792bdd32a4682b2de2992b3083595b3"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.4.0+0/GMT.v6.4.0.x86_64-w64-mingw32.tar.gz"
