@@ -1,50 +1,50 @@
 [[GMT]]
 arch = "aarch64"
-git-tree-sha1 = "91f784c928a9893e92de5762680fd4c0fa81e95e"
+git-tree-sha1 = "c77855c9529481425f42e9e1cf4059c7697a22ce"
 os = "macos"
 
     [[GMT.download]]
-    sha256 = "23271e5b9a6ea31fd89bc5f7126f30222145118c80658b9a200dbdf8f595b377"
-    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.5.4+0/GMT.v6.5.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "8027ec7033e7daee9f4329c02f5922674ab38747e82b022d26fde62af429f85d"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.6.0+0/GMT.v6.6.0.aarch64-apple-darwin.tar.gz"
 [[GMT]]
 arch = "aarch64"
-git-tree-sha1 = "7801b595b1c6b940158f06d7a03540da9a599f57"
+git-tree-sha1 = "65a67591cc8ee64304894c005a8c0dfefbfbca16"
 libc = "glibc"
 os = "linux"
 
     [[GMT.download]]
-    sha256 = "739fd3df7a2ee4087b477d062b1a4abf126779a2c7ee5e89f3f9aa5b298fdc04"
-    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.5.4+0/GMT.v6.5.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "9be16124954dbf13bce3866d322c4833ad11434e85558de0e312376069088f54"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.6.0+0/GMT.v6.6.0.aarch64-linux-gnu.tar.gz"
 [[GMT]]
 arch = "i686"
-git-tree-sha1 = "2b2ca310a201f7238f667a911fba9a8eccb8e563"
+git-tree-sha1 = "8fed2de13d8f8a77a41666aa4c287527b7cf7dbf"
 os = "windows"
 
     [[GMT.download]]
-    sha256 = "c64664f4617f9758a0226e7dbc2151995a9db1917ecad5e9998b1e5d222dfda5"
-    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.5.4+0/GMT.v6.5.4.i686-w64-mingw32.tar.gz"
+    sha256 = "4095d2d2ffa638a5adaab0eb46ee9bdd8590bbb7bace84c0b01a10d8ebfc6d2a"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.6.0+0/GMT.v6.6.0.i686-w64-mingw32.tar.gz"
 [[GMT]]
 arch = "x86_64"
-git-tree-sha1 = "385f07616bce23ee92c8ac333243cd0a94559428"
+git-tree-sha1 = "d903f630d73e9efaea728b925932a0bd86ed56bd"
 os = "macos"
 
     [[GMT.download]]
-    sha256 = "dc360b0d848e1fe14553dbdf918989299960adb80af19f291418f8b9f6838920"
-    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.5.4+0/GMT.v6.5.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "c057696bc631aee317b45eabff4571f342f06df0c612ec0e8589c6510899b10e"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.6.0+0/GMT.v6.6.0.x86_64-apple-darwin.tar.gz"
 [[GMT]]
 arch = "x86_64"
-git-tree-sha1 = "0a326985e4fad11c43d88a104990c984bf40dc9f"
+git-tree-sha1 = "964f73d30a1782a841e69ae606c986f163ab7ef6"
 libc = "glibc"
 os = "linux"
 
     [[GMT.download]]
-    sha256 = "23811055b51c96013b63e6ab162c34e1248eaac0f6803715c2194c595258b6a9"
-    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.5.4+0/GMT.v6.5.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "dd3c965e8b6a5ea33519ee87bf1bf249ba9419688ac91181f3ed333963a20a28"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.6.0+0/GMT.v6.6.0.x86_64-linux-gnu.tar.gz"
 [[GMT]]
 arch = "x86_64"
-git-tree-sha1 = "9e8edb1897d044816a08ff44a3f1ff1f0285a530"
+git-tree-sha1 = "0658e6467d331564694e9499413c28227553a872"
 os = "windows"
 
     [[GMT.download]]
-    sha256 = "1d90831435b71d2c10ebecef1cc57d2e00ec5b8ebd0ef4acb32b23d0db1e2bb7"
-    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.5.4+0/GMT.v6.5.4.x86_64-w64-mingw32.tar.gz"
+    sha256 = "3f2a81f1f6fba58d5d7d96ed9c3362f7f7b4b94e90c6701aff3f0cd9c00c3d2d"
+    url = "https://github.com/JuliaBinaryWrappers/GMT_jll.jl/releases/download/GMT-v6.6.0+0/GMT.v6.6.0.x86_64-w64-mingw32.tar.gz"

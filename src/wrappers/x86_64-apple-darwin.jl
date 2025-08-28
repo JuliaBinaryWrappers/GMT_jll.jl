@@ -20,13 +20,13 @@ function __init__()
     JLLWrappers.@generate_init_header(LibCURL_jll, NetCDF_jll, PROJ_jll, GDAL_jll, FFTW_jll, PCRE_jll, LAPACK32_jll, OpenBLAS32_jll, Glib_jll, Ghostscript_jll, LLVMOpenMP_jll)
     JLLWrappers.@init_library_product(
         libgmt,
-        "lib/libgmt.6.6.0.dylib",
+        "lib/libgmt.6.7.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libpostscriptlight,
-        "lib/libpostscriptlight.6.6.0.dylib",
+        "lib/libpostscriptlight.6.7.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
