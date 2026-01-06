@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("GMT")
-JLLWrappers.@generate_main_file("GMT", UUID("b68b8c3f-ed99-5bef-9675-4739d9426b26"))
+JLLWrappers.@generate_main_file("GMT", Base.UUID("b68b8c3f-ed99-5bef-9675-4739d9426b26"))
 end  # module GMT_jll
